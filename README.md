@@ -7,7 +7,7 @@
  📫 How to reach me **webwizardsusa@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p>
- <a href="https://www.facebook.com/webwizardsusa" target="_blank" rel="noreferrer"> <img
+ <a href="https://m.facebook.com/public/Daniel-Breit" target="_blank" rel="noreferrer"> <img
                 src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"
                 alt="facebook" width="40" height="40" /> </a>
                 <a href="https://www.linkedin.com/in/daniel-breit-1a83b6324/" target="_blank" rel="noreferrer"> <img
