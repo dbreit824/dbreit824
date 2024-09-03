@@ -4,7 +4,7 @@
  💬 We etch masterpieces in web which stand out for its uniqueness and finesse.
  <br>
  <br>
- 📫 How to reach me **webwizardsusa@gmail.com**
+ 📫 How to reach me **danielbreit824@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p>
  <a href="https://m.facebook.com/public/Daniel-Breit" target="_blank" rel="noreferrer"> <img
